@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534417572516",
+    "project_id": "rahath-travels",
+    "storage_bucket": "rahath-travels.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534417572516:android:e3e489ace08807e4939c31",
+        "android_client_info": {
+          "package_name": "com.hamdhan.rahathtravels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQbLba75UHiFGEzzB38h6gOes_2LFZVNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
